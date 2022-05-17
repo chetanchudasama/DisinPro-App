@@ -1,0 +1,23 @@
+#app .v-application .primary {
+  background-color: #354e60 !important;
+  border-color: #354e60 !important;
+}
+
+#app .v-application .secondary {
+  background-color: #efb243 !important;
+  border-color: #efb243 !important;
+}
+
+#app .v-application .primary--text {
+  color: #354e60 !important;
+  caret-color: #354e60 !important;
+}
+
+#app .v-application .secondary--text {
+  color: #efb243 !important;
+  caret-color: #efb243 !important;
+}
+
+.red--text {
+  color: red !important;
+}
